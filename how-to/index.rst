@@ -17,6 +17,15 @@ Operations
 
    operations/index
 
+Security
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   security/index
+
+
 Optional Features
 -----------------
 

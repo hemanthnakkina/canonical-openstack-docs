@@ -15,5 +15,6 @@ Index
    network-debugging
    proxy-acl-access
    release-cycle-and-supported-versions
+   security/index
    underlying-projects-and-charms
    api-auditing

@@ -12,6 +12,7 @@ Index
    design-considerations
    deployment-manifest
    network-traffic-isolation-with-maas
+   security/index
    service-endpoint-encryption
    technical-motives
    maintenance-mode
